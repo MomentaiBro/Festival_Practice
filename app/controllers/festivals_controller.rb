@@ -1,0 +1,4 @@
+class FestivalsController < ApplicationController
+
+
+end
